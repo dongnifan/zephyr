@@ -6,3 +6,4 @@ board:
   - name: nrf52840
     variants:
     - name: 'sense'
+    - name: 'sense_rev2'
